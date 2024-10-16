@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: sai282022/batch13:5
+        image: sai282022/batch1:XYZ
         ports:
         - containerPort: 8080
 
